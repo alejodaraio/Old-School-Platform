@@ -1,10 +1,16 @@
 fileFormatVersion: 2
 guid: 424d4322a7e5cfe45a06a04daedeb08b
-timeCreated: 1496966346
-licenseType: Pro
+timeCreated: 1497889258
+licenseType: Free
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - SceneLoadManager: {instanceID: 0}
+  - ScoreManager: {instanceID: 0}
+  - UIManager: {instanceID: 0}
+  - LivesManager: {instanceID: 0}
+  - AudioManager: {instanceID: 0}
+  - player: {fileID: 1334412972450864, guid: d3398371ecb8d4d489594e5d624bc295, type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
